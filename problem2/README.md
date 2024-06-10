@@ -1,3 +1,9 @@
+# Currency Converter
+
+![Image](desktop_UI.png "Desktop UI")
+
+![Image](mobile_UI.png "Mobile UI")
+
 ## Install libraries
 
 ### `npm install`
