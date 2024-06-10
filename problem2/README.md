@@ -1,7 +1,8 @@
 # Currency Converter
-
+## Introduction
+### Desktop UI
 ![Image](desktop_UI.png "Desktop UI")
-
+### Mobile UI
 ![Image](mobile_UI.png "Mobile UI")
 
 ## Install libraries
